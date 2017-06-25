@@ -1,0 +1,24 @@
+{
+  "name": "employee-crud",
+  "version": "1.0.0",
+  "description": "This is a CRUD screen for employee",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "CRUD",
+    "Operation",
+    "on",
+    "Employee"
+  ],
+  "author": "Sameer Manjrekar",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.17.2",
+    "cors": "^2.8.3",
+    "express": "^4.15.3",
+    "mongoose": "^4.10.8",
+    "morgan": "^1.8.2"
+  }
+}
